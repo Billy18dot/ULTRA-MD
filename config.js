@@ -19,13 +19,13 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'ULTRA-MD aka ⏤͟͞★⃝FORÊIGNÊR-𝞛𝘿𖥘✪͜͡➺';
-global.pairingNumber = process.env.BOT_NUMBER || '263781526148';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'iVIzyaSD#mE9-KwnPyprzMo5wbFuVLh03GQ_7sJ4BSkGwyZSlen0';  // put your session id here
+global.botname = process.env.BOTNAME || 'ULTRA-MD';
+global.pairingNumber = process.env.BOT_NUMBER || '263789306836';  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || 'fcownAIA#rkVWBU3f5YcvMmITA-gaxqzxp7Dlin2GrBz1osmrdCg';  // put your session id here
 
 global.mods = []
 global.prems = []
-global.allowed = ['27781242411', '263781526148']
+global.allowed = ['263789306836', '']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,7 +73,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'Forêignêr-MD'
+global.packname = 'Divah-MD'
 global.author = 'Mr-JONES'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
