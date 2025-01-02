@@ -55,12 +55,6 @@ set the Env Vars.
 
 ----
 
-```
-https://www.npmjs.com/package/api-qasim
-
-npm i api-qasim
-
-```
 
 ## 🎬 Watch the Tutorial
 
@@ -141,16 +135,8 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
    <a href='https://repl.it/github/GlobalTechInfo/ULTRA-MD' target="_blank">
       <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
-
-   **Option G: Deploy on Netlify**
-1. [Create an Account on Netlify](https://app.netlify.com) if you don’t have one.
-2. Click the button below to deploy using Netlify:
-   <br>
-   <a href='https://app.netlify.com' target="_blank">
-      <img alt='Deploy on Netlify' src='https://img.shields.io/badge/-DEPLOY-pink?style=for-the-badge&logo=netlify&logoColor=white'/>
-   </a>
    
-    **Option H: Deploy on Panel**
+    **Option G: Deploy on Panel**
  1. First You Have to Sign up on discord using web or app then click below.
 2. [Sign Up On Panel](https://bot-hosting.net/?aff=1097457675723341836) if you don’t have Already.
 4. Click the button below to deploy using Panel:
@@ -170,7 +156,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/ULTRA-MD/issues">issue</a> or <a href="https://wa.me/923444844060?text=Hello+Silva+Tech,+I+need+assistance+with+Silva+MD+Bot">Contact Us on WhatsApp</a>.</p>
+<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/ULTRA-MD/issues">issue</a> or <a href="https://wa.me/923444844060?text=Hello+Global+Tech,+I+Need+Assistance+For+ULTRA+MD+Bot">Contact Us on WhatsApp</a>.</p>
 
 ---
 
@@ -323,7 +309,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 ---
 
-<p align="center">© Globaltechinfo 2024</p>
+<p align="center">© GlobalTechInfo 2024</p>
 
   
   
@@ -356,7 +342,7 @@ apt install -y webp git ffmpeg curl imagemagick
 ```
 ```
 apt -y remove nodejs
-curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
+curl -fsSl https://deb.nodesource.com/setup_20.x | bash - && apt -y install nodejs
 ```
 ```
 apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
